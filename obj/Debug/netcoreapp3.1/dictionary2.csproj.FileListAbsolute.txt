@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\csharp\exercises\dictionary2\obj\Debug\netcoreapp3.1\dictionary2.csprojAssemblyReference.cache
+C:\Users\phili\workspace\csharp\exercises\dictionary2\obj\Debug\netcoreapp3.1\dictionary2.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\csharp\exercises\dictionary2\obj\Debug\netcoreapp3.1\dictionary2.AssemblyInfo.cs
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.exe
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.deps.json
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.runtimeconfig.json
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.runtimeconfig.dev.json
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.dll
+C:\Users\phili\workspace\csharp\exercises\dictionary2\bin\Debug\netcoreapp3.1\dictionary2.pdb
+C:\Users\phili\workspace\csharp\exercises\dictionary2\obj\Debug\netcoreapp3.1\dictionary2.dll
+C:\Users\phili\workspace\csharp\exercises\dictionary2\obj\Debug\netcoreapp3.1\dictionary2.pdb
